@@ -1,0 +1,24 @@
+* {
+    margin-left: 5px;
+  }
+  
+  .container {
+    border: 1px solid black;
+    width: 870px;
+    height: 755px;
+  
+  
+  }
+  
+  
+  .class1{
+      color: rgb(221, 154, 124);
+      padding: 2px;
+    }
+  
+    .main{
+   margin-left: 17px;
+    }
+  
+   /* div:nth-child(even) {background-color: #f2f2f2;} */
+    
